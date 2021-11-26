@@ -1,0 +1,22 @@
+{
+  "name": "nodeexpressrest",
+  "version": "1.0.0",
+  "description": "test REST funtionality of node and express.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gzuz187187/nodeExpressRest.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gzuz187187/nodeExpressRest/issues"
+  },
+  "homepage": "https://github.com/gzuz187187/nodeExpressRest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
